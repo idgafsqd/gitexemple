@@ -1,4 +1,7 @@
 <!doctype html>
+<!doctype html>
+<!doctype html>
+
 <link href="fichierCSS.css" rel="stylesheet" type="text/css" />
 <html>
  <head>
@@ -12,4 +15,4 @@
  </body>
 </html>		
 
-
+<!-- COMMENTAIRE -->
