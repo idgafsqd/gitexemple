@@ -6,7 +6,7 @@
   <meta charset="utf-8"/>
  </head>
  <body>
-  <h1> Mes premiers pas en PHP </h1>
+  <h1> Mes premiers pas en PHP QUOI MODIF ET OUAIS </h1>
   <?php require('func1.php');?>
   <p> c'est en cours lol</p>
  </body>

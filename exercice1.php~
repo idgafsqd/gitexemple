@@ -6,10 +6,18 @@
   <meta charset="utf-8"/>
  </head>
  <body>
+<<<<<<< HEAD
   <h1> Mes premiers pas en PHP </h1>
+=======
+  <h1> Mes premiers pas en PHP QUOI MODIF ET OUAIS </h1>
+>>>>>>> nomBranche
   <?php require('func1.php');?>
   <p> c'est en cours lol</p>
  </body>
 </html>		
 
+<<<<<<< HEAD
 <!-- COMMENTAIRE -->
+=======
+
+>>>>>>> nomBranche
